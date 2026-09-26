@@ -38,6 +38,8 @@ Double-click index.html to open the website in any browser (Chrome, Edge, Firefo
 What I Learned
 How to structure web pages using HTML tags like <header>, <main>, <section>, <nav>, and <footer>.
 
+How to use comments
+
 How to create tables with <thead>, <tbody>, and <tr> for organizing data.
 
 Creating forms using input tags (text, email, tel, and date).
